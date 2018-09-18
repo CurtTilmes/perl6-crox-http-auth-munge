@@ -3,7 +3,7 @@ CroX::HTTP::Auth::Munge
 
 `CroX::HTTP::Auth::Munge` is a
 [`Cro::HTTP::Auth`](https://cro.services/docs/http-auth-and-sessions)
-class for using [`Munge`](https://github.com/CurtTilmes/perl6-munge]
+class for using [`Munge`](https://github.com/CurtTilmes/perl6-munge)
 authentication with [Cro](https://cro.services).
 
 ## Concept
